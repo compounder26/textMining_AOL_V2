@@ -1,0 +1,20 @@
+torch
+torchvision
+transformers
+pandas
+scikit-learn
+lightgbm
+jupyter
+tqdm
+seaborn
+pysastrawi
+gensim
+spacy==3.7.0
+numpy
+matplotlib
+wordcloud
+nltk
+huggingface_hub
+emot
+
+#python -m spacy download id_core_news_sm
